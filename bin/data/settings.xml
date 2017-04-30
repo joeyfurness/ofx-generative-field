@@ -1,0 +1,19 @@
+<controls>
+	<group>
+		<res>60</res>
+		<release>0.943878</release>
+		<size>9</size>
+		<posX>-220</posX>
+		<posY>110</posY>
+		<rotX>0</rotX>
+		<rotY>0</rotY>
+		<rotZ>0</rotZ>
+		<red>255</red>
+		<green>255</green>
+		<blue>255</blue>
+		<alpha>255</alpha>
+	</group>
+	<volume>0.195</volume>
+	<speed>1</speed>
+<controls/>
+</controls>

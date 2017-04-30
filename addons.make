@@ -1,0 +1,5 @@
+ofxGui
+ofxPostProcessing
+ofxSyphon
+ofxVideoRecorder
+ofxXmlSettings
